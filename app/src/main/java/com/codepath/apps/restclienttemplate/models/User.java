@@ -4,9 +4,9 @@ import android.widget.ImageView;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-//import org.parceler.Parcel;
+import org.parceler.Parcel;
 
-//@Parcel
+@Parcel
 public class User {
 
     public String name;
